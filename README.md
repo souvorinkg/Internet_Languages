@@ -2,7 +2,8 @@
 
 Kolya Souvorin
 
-  The Internet serves many functions that help citizens be informed and participate in
+*Abstract:*
+<space><space><space><space> The Internet serves many functions that help citizens be informed and participate in
 democracy and the economy in the digital age—the right to access the Internet links to the right
 to use your native language. The EU’s language policy translates all documents into its official
 languages, and the resulting corpus makes translation and research within these languages
